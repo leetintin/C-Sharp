@@ -1,0 +1,15 @@
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\Database1.sdf
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\new1.exe.config
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\new1.exe.manifest
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\new1.application
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\new1.exe
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Release\new1.pdb
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.Form1.resources
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.Properties.Resources.resources
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.exe.manifest
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.application
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.exe
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Release\new1.pdb

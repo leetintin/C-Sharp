@@ -1,0 +1,20 @@
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\bin\Debug\new1.exe
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\bin\Debug\new1.pdb
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\new1.Form1.resources
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\new1.Properties.Resources.resources
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\new1.exe
+C:\Users\sshui\AppData\Local\Temporary Projects\new1\obj\x86\Debug\new1.pdb
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new1.exe
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new1.pdb
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Debug\Database1.sdf
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Debug\new1.exe.config
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Debug\new1.exe
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\bin\Debug\new1.pdb
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new1.Form1.resources
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new1.Properties.Resources.resources
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\GenerateResource.write.1.tlog
