@@ -1,0 +1,28 @@
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\bin\Release\PC-log.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\bin\Release\PC-log.pdb
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\PC_log.Form1.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\PC_log.Properties.Resources.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\PC-log.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Release\PC-log.pdb
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\Database1.sdf
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\Database2.sdf
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\PC-log.exe.config
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\PC-log.exe.manifest
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\PC-log.application
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\PC-log.exe
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Release\PC-log.pdb
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC_log.Form1.resources
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC_log.Properties.Resources.resources
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.exe.manifest
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.application
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.exe
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.pdb
+Z:\C-Sharp\PC-log\PC-log\PC-log\bin\Release\PC-log.exe.config
+Z:\C-Sharp\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.exe
+Z:\C-Sharp\PC-log\PC-log\PC-log\obj\x86\Release\PC-log.pdb

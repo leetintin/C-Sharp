@@ -18,3 +18,6 @@ C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new
 C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\new1.Properties.Resources.resources
 C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\sshui\documents\visual studio 2010\Projects\new1\new1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lixia\Documents\GitHub\C-Sharp\new1\bin\Debug\new1.exe.config
+C:\Users\lixia\Documents\GitHub\C-Sharp\new1\obj\x86\Debug\new1.exe
+C:\Users\lixia\Documents\GitHub\C-Sharp\new1\obj\x86\Debug\new1.pdb

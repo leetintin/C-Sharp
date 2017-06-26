@@ -1,0 +1,25 @@
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\bin\Debug\PC-log.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\bin\Debug\PC-log.pdb
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\PC_log.Form1.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\PC_log.Properties.Resources.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\PC-log.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log\obj\x86\Debug\PC-log.pdb
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\PC-log.exe.config
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC-log.exe
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC-log.pdb
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\Database1.sdf
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\Database2.sdf
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\PC-log.exe
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\PC-log.pdb
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC_log.Form1.resources
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC_log.Properties.Resources.resources
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\PC-log.exe.manifest
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\bin\Debug\PC-log.application
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC-log.exe.manifest
+C:\Users\lol\Desktop\PC-log\PC-log\PC-log\obj\x86\Debug\PC-log.application
