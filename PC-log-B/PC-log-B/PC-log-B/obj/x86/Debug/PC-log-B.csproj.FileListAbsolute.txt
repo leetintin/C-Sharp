@@ -1,0 +1,22 @@
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\bin\Debug\Database1.sdf
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\bin\Debug\PC-log-B.exe.config
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\bin\Debug\PC-log-B.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\bin\Debug\PC-log-B.pdb
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\PC_log_B.Form1.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\PC_log_B.Properties.Resources.resources
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\PC-log-B.exe
+C:\Users\lol\AppData\Local\Temporary Projects\PC-log-B\obj\x86\Debug\PC-log-B.pdb
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\bin\Debug\PC-log-B.exe.config
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\PC-log-B.exe
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\PC-log-B.pdb
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\bin\Debug\Database1.sdf
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\bin\Debug\PC-log-B.exe
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\bin\Debug\PC-log-B.pdb
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\PC_log_B.Form1.resources
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\PC_log_B.Properties.Resources.resources
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C-Sharp\PC-log-B\PC-log-B\PC-log-B\obj\x86\Debug\GenerateResource.write.1.tlog
